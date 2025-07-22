@@ -26,6 +26,19 @@ The World Time app allows users to:
 - Asynchronous programming (async/await)
 - JSON parsing
 
+## 📸 Screenshot
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github.com/user-attachments/assets/3e1cb76f-db63-4153-87bf-4b9e305158f2" alt="Screenshot 1" width="200" />
+  <img src="https://github.com/user-attachments/assets/00a9fd8f-7c96-4479-87b9-6bfea1169952" alt="Screenshot 2" width="200" />
+  <img src="https://github.com/user-attachments/assets/d3775ec8-58be-4ce4-9436-21c068b2ac88" alt="Screenshot 3" width="200" />
+</div>
+
+
+
+
+
+
 ## How to Run
 
 1. Clone the repo
