@@ -55,5 +55,6 @@ Feel free to explore and suggest improvements!
 
 ---
 
-*Created by Malak Anwar
+*Created by Malak Anwar with help from Flutter Tutorial for Beginners playlist done by Net Ninja.
+
 
